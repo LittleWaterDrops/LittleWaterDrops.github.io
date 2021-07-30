@@ -14,3 +14,5 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # Upgrade kramdown to avoid dependencies alert
 gem "kramdown", ">= 2.3.1"
+
+gem "webrick", "~> 1.7"
