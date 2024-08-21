@@ -1,5 +1,5 @@
 ---
-title: "1-1. 컴퓨터 네트워크를 알아야 하는 이유"
+title: "[혼공네] 1-1. 컴퓨터 네트워크를 알아야 하는 이유"
 tags: [study, alone-network]
 author: 상 한규
 ---

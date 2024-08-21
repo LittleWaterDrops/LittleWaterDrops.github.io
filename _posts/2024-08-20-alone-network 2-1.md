@@ -1,5 +1,5 @@
 ---
-title: "2-1 이더넷"
+title: "[혼공네] 2-1. 이더넷"
 tags: [study, alone-network]
 author: 상 한규
 ---

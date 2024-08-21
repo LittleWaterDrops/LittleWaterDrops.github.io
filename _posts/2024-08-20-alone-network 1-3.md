@@ -1,5 +1,5 @@
 ---
-title: "1-3. 네트워크 미시적으로 살펴보기"
+title: "[혼공네] 1-3. 네트워크 미시적으로 살펴보기"
 tags: [study, alone-network]
 author: 상 한규
 ---

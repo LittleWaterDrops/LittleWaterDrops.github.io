@@ -1,5 +1,5 @@
 ---
-title: "1-2. 네트워크를 거시적으로 살펴보기"
+title: "[혼공네] 1-2. 네트워크를 거시적으로 살펴보기"
 tags: [study, alone-network]
 author: 상 한규
 ---
