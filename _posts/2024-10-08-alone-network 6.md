@@ -5,7 +5,7 @@ author: 상 한규
 ---
 실습 완료 사진으로 해당 내용을 대체합니다.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8bf9240a-e8aa-464f-b9e6-2d316a71d2b3/18dc38ca-c0bd-4ea6-a4fa-1eb32137d1f1/image.png)
+![screenshot](/assets/images/posts/alone-network/6.png)
 
 <aside>
 💡
