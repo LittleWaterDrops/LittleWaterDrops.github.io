@@ -13,4 +13,4 @@ HEAT는 Healthcare Electronic Ajou Team의 약자로, 전자공학도의 지식�
 
 자세 판단에 대한 코드는 python으로 작성하였으며, 인셉션 v3를 파인튜닝하여 머신 러닝을 진행하였습니다. 사용자에게 보여준 프론트 프로그램의 경우 pyqt5를 사용하여 간단한 python GUI를 제작하였습니다.
 
-[좌식 자세 판단 및 바른 자세 교정 환경 구축 발표 자료](https://drive.google.com/file/d/1b9CWu2HbwqlnhUl77t1h9S3ofkpFY7m0/view?usp=sharing)
+[좌식 자세 판단 및 바른 자세 교정 환경 구축 발표 자료](https://drive.google.com/file/d/1wnnMc2H5kV2dDT4CxakkL8ry6Ry23P9f/view?usp=drive_link)
