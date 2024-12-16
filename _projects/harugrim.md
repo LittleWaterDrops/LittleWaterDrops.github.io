@@ -43,4 +43,5 @@ date: 2024-11-27
 
 ## 참고 링크
 
+- [하루그림 발표자료](https://drive.google.com/file/d/1pX-hhOTmR6ms3WhXwnbNlKBGkrZqUg_q/view?usp=sharing)
 - [하루그림 프로젝트 게스트로 로그인 링크](https://littlewaterdrops.github.io/haru_grim_release/)
