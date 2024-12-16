@@ -1,5 +1,5 @@
 ---
-title: [사이드 프로젝트] 사내 영수증 관리 웹사이트
+title: 사내 영수증 관리 웹사이트
 description: 사내 영수증 관리 웹사이트를 제작했습니다.
 image: working.png
 date: 2023-11-01
